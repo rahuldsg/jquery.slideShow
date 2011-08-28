@@ -84,7 +84,7 @@ please visit the [jquery.slideShow Project Page on Github](http://github.com/Eph
 
 * 2010-09-16
 	* Added feature where the height of the slideshow is dynamically changed
-	  if the slides change their height. That is especially helpfull for
+	  if the slides change their height. That is especially helpful  for
 	  slides with alt image texts
 	* Moved example display to the top and example description and source
 	  to bottom on every example source
@@ -114,4 +114,4 @@ please visit the [jquery.slideShow Project Page on Github](http://github.com/Eph
 	* fixed bug: use of images in navigation, click on .page fixed index
 
 * 2009-07-02
-	* added license informations and minified version of slideshow javascript
+	* added license information  and minified version of slideshow javascript
